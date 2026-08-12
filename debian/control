@@ -19,6 +19,7 @@ Vcs-Git: https://github.com/qualcomm-linux/pkg-camx-hamoa.git
 
 Package: camx-hamoa
 Architecture: arm64
+Provides: camx-purwa (= ${binary:Version})
 Depends:
  ${misc:Depends},
  ${shlibs:Depends},
