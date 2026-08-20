@@ -4,3 +4,4 @@ source-is-missing [*]
 
 # expected for debug symbols
 binary-with-bad-dynamic-table [*/arm64/usr/lib/debug/*]
+elf-error * [*/arm64/usr/lib/debug/*]
