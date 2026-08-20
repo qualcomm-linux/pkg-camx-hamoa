@@ -1,3 +1,9 @@
+camx-hamoa (1.0.32-0qli3) UNRELEASED; urgency=medium
+
+  * Unreleased changes
+
+ -- Agathe Porte <agathe.porte@oss.qualcomm.com>  Thu, 20 Aug 2026 11:51:54 +0200
+
 camx-hamoa (1.0.32-0qli2) unstable; urgency=medium
 
   * Fake release to unstable
