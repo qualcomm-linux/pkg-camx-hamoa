@@ -1,8 +1,9 @@
-camx-hamoa (1.0.32-0qli2~bpo13+1~) UNRELEASED; urgency=medium
+camx-hamoa (1.0.32-0qli2~bpo13+1) trixie; urgency=medium
 
+  [ Agathe Porte ]
   * Rebuild for trixie.
 
- -- Agathe Porte <agathe.porte@oss.qualcomm.com>  Thu, 20 Aug 2026 11:52:41 +0200
+ -- Debusine Action Bot <noreply@bot.invalid>  Thu, 20 Aug 2026 09:53:44 +0000
 
 camx-hamoa (1.0.32-0qli2) unstable; urgency=medium
 
