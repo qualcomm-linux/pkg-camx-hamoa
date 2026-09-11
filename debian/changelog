@@ -1,8 +1,8 @@
-camx-hamoa (1.0.39-2~) UNRELEASED; urgency=medium
+camx-hamoa (1.0.45-1) UNRELEASED; urgency=medium
 
-  * WIP — update changelog before next release
+  * IMX688 and IMX577 tuning fixes
 
- -- Qualcomm Camera Team <camx.deb.maintainers@qti.qualcomm.com>  Wed, 26 Aug 2026 08:04:33 +0000
+ -- Qualcomm Camera Team <camx.deb.maintainers@qti.qualcomm.com>  Fri, 11 Sep 2026 08:47:10 +0530
 
 camx-hamoa (1.0.39-1) resolute; urgency=medium
 
