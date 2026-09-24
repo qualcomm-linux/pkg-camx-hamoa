@@ -1,8 +1,9 @@
-camx-hamoa (1.0.47-2~) UNRELEASED; urgency=medium
+camx-hamoa (1.0.48-1) UNRELEASED; urgency=medium
 
-  * WIP — update changelog before next release
+  * Adjust AWB/AEC for AWB and BLC KPI issues
+  * Add raw dump link segment to YUV preview pipeline
 
- -- Qualcomm Camera Team <camx.deb.maintainers@qti.qualcomm.com>  Mon, 21 Sep 2026 11:49:44 +0000
+ -- Qualcomm Camera Team <camx.deb.maintainers@qti.qualcomm.com>  Thu, 24 Sep 2026 11:49:44 +0000
 
 camx-hamoa (1.0.47-1) resolute; urgency=medium
 
