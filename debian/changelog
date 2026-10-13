@@ -1,9 +1,9 @@
-camx-hamoa (1.0.51-1) UNRELEASED; urgency=medium
+camx-hamoa (1.0.51-1) resolute; urgency=medium
 
   [ Qualcomm Camera Team ]
   * New upstream release (261009)
 
- -- Qualcomm Camera Team <camx.deb.maintainers@qti.qualcomm.com>  Mon, 12 Oct 2026 19:32:46 +0000
+ -- GitHub Service Bot <githubservice@qti.qualcomm.com>  Tue, 13 Oct 2026 02:52:50 +0000
 
 camx-hamoa (1.0.48-2) resolute; urgency=medium
 
