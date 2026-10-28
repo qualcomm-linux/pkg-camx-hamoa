@@ -10,6 +10,8 @@ Build-Depends:
 Build-Depends-Arch:
  libfastrpc1,
  libglib2.0-0,
+ libopencv-dev,
+ liburm-dev,
  libxml2-16,
  protobuf-compiler,
 Standards-Version: 4.6.2
