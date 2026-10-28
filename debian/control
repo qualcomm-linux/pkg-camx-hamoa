@@ -33,6 +33,8 @@ Depends:
  camx-hamoa (= ${binary:Version}),
  ${misc:Depends},
  ${shlibs:Depends},
+Provides:
+ camx-server-runtime-any,
 Description: Qualcomm CamX libraries for camera service
  Set of libraries used by camera service (QMMF) for Hamoa platform
 
